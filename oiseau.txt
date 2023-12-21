@@ -13,4 +13,3 @@ Martinet
 Foulque	macroule
 Outarde	canepetière
 Echasse blanche
-test
