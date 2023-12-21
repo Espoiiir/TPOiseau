@@ -8,9 +8,5 @@ Chevalier culblanc
 Chevalier aboyeur
 Courlis corlieu
 Courlis cendré
-<<<<<<< HEAD
-eRossignol
-
-=======
+Rossignol
 Martinet
->>>>>>> test
